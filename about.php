@@ -1,3 +1,3 @@
 <?php
 
-echo 'This page about me';
+echo 'THis page about me';
